@@ -31,6 +31,7 @@
     "dinero.js": "1.8.1",
     "formik": "2.2.6",
     "history": "4.10.1",
+    "lodash-es": "^4.17.21",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-google-login": "5.2.2",
@@ -41,7 +42,9 @@
     "react-virtualized": "9.22.3",
     "shortid": "2.2.16",
     "uuid": "8.3.2",
+    "w3c-hr-time": "^1.0.2",
     "xstate": "4.18.0",
+    "yarn": "^1.22.10",
     "yup": "0.32.9"
   },
   "devDependencies": {
